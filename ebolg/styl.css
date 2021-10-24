@@ -1,0 +1,22 @@
+body{
+    background-color: white;
+
+    margin: 0%;padding: 0%;
+    text-decoration: none;
+}
+
+.head{
+    background-color:green;
+    display:grid;
+    grid-template-columns: auto max-content;
+}
+.head button{
+    cursor: pointer;
+    font: size 0.8em;
+    background-color: black;
+    color: white;
+    border: green;
+    display: inline;
+    border-top-left-radius: 60px;
+    border-bottom-left-radius: 60px;
+}

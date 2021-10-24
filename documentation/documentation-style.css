@@ -1,0 +1,24 @@
+
+table{
+    table-layout: fixed;
+    white-space: nowrap;
+}
+.lhs u{
+    border: 2px solid;
+}
+.docs p{
+    display: none;
+}
+#infopage{
+    display: block;
+}
+fieldset{
+    border:0ch;
+    border-top: 1px solid blue;
+}
+.info{
+    border:thick solid;
+}
+.docs p{
+    border: thin solid;
+}
